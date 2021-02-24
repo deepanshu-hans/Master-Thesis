@@ -1,2 +1,2 @@
-# Master-Thesis
-Human Detection and Human Following through mobile robot
+# Human Detection and Human Following through mobile robot
+
